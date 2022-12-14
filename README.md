@@ -5,7 +5,7 @@ The file contains: 5_bar_parallel_linkage_writer_square.ino (an Arduino source f
                    5_bar_parallel_linkage_writer_triangle.ino (Arduino code for plotting a triangle)
                    Schematics circuit diagram and other diagrams.
                    Images of my setup.
-                   
+                   Video of the arm in action.
               
 NOTE: one can change the arm dimensions in these codes by changing the arm object parameters. The shape can be changed by changing the sequence of points(initial point must be same as ending point for smooth transition.)    
 
